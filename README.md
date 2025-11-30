@@ -25,9 +25,13 @@ que permite testar operações de leitura e postagem de artigos em grupos de not
 ## Estrutura do Projeto
 Alpha-Telnet/
 ├── client.py # Cliente Telnet assíncrono
+
 ├── server.py # Servidor Telnet Usenet
+
 ├── storage.py # Persistência de artigos
+
 ├── storage_backup.json # Backup de dados
+
 └── pycache/ # Cache Python
 
 
