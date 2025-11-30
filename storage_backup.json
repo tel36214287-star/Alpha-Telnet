@@ -1,0 +1,44 @@
+{
+  "groups": {
+    "comp.example": [
+      1,
+      2,
+      4
+    ],
+    "talk.example": [],
+    "Newsgroups: comp.example": [
+      3
+    ]
+  },
+  "articles": {
+    "1": {
+      "id": 1,
+      "subject": "Welcome",
+      "from": "admin@example",
+      "body": "This is a sample article.",
+      "group": "comp.example"
+    },
+    "2": {
+      "id": 2,
+      "subject": "Subject: A Internet nos Anos 90: Lembranças e Curiosidades",
+      "from": "",
+      "body": "Olá a todos!\n\nQuem mais aqui se lembra da internet nos anos 90? Era um mundo tão diferente, né? Aquele som inconfundível do modem dial-up, a expectativa de cada página carregar linha por linha, e a emoção de descobrir um novo site em HTML puro.\n\nLembro-me das BBSs, dos primeiros chats de IRC com suas salas temáticas, e dos fóruns de discussão que pareciam comunidades secretas. O e-mail era uma novidade incrível e o \"www\" ainda estava engatinhando para muita gente. Não havia Google, mas tínhamos os diretórios como o Yahoo! e os portais que nos guiavam por esse universo digital em expansão.\n\nEra uma internet mais lenta, com gráficos simples, mas cheia de uma sensação de pioneirismo e descoberta. A conexão era cara, por minuto, e tínhamos que brigar com o telefone de casa!\n\nQuais são as suas melhores lembranças dessa era? Saudades do Netscape Navigator ou do Internet Explorer 3? Compartilhem suas histórias!\n\nAbraços,\nUma nostálgica da rede",
+      "group": "comp.example"
+    },
+    "3": {
+      "id": 3,
+      "subject": "Subject: Teste",
+      "from": "From: renato",
+      "body": "Olá!",
+      "group": "Newsgroups: comp.example"
+    },
+    "4": {
+      "id": 4,
+      "subject": "Teste",
+      "from": "renato",
+      "body": "Olá!",
+      "group": "comp.example"
+    }
+  },
+  "_next_id": 5
+}

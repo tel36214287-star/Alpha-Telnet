@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  usenet:
+    build:
+      context: ./server
+    ports:
+      - "11900:11900"
+    restart: unless-stopped
